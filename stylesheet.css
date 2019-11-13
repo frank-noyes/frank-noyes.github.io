@@ -1,0 +1,8 @@
+h1 {font-size: 36pt; text-align: center;}
+
+Body {background: dodgerblue; color: white; font-size: 16pt; font-family: 'Abel', sans-serif; 
+text-align: center;}
+
+other p {font-size: 12pt}
+
+a:hover {color: turquoise;}
